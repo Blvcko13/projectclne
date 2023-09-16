@@ -1,0 +1,19 @@
+ @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;1,400;1,700&display=swap');
+
+#div1{
+  font-family: 'Raleway', sans-serif;
+  width: 500px;
+  margin-top: 50px;
+  margin-left: 350px;
+  border: 2px solid darkcyan;
+  border-radius: 20px;
+  padding: 10px;
+  padding-left: 20px; 
+  justify-content: center;
+}
+
+#header1{
+  margin: 5px;
+ 
+
+}
